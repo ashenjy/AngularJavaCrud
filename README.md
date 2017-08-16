@@ -1,4 +1,4 @@
-# AngularJavaCrud
+# AngularJs and Java Crud Application using Jersey
 
 1.Download the zip  
 
